@@ -12,7 +12,7 @@ export function About() {
           <div className="relative">
             <div className="absolute -inset-4 bg-accent/20 rounded-2xl blur-2xl" />
             <Image
-              src="/images/carlosface-20-282-29.jpeg"
+              src="/images/mesaboa.jpeg"
               alt="Dr. Carlos Fernando Lopes de Oliveira"
               width={500}
               height={600}

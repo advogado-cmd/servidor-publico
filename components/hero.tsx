@@ -70,7 +70,7 @@ export function Hero() {
             <div className="relative">
               <div className="absolute -inset-4 bg-accent/20 rounded-2xl blur-2xl" />
               <Image
-                src="/images/dsc-5548-20-281-29.jpeg"
+                src="/images/forumboa.jpeg"
                 alt="Dr. Carlos Fernando Lopes de Oliveira - Advogado Especialista em Servidor Público"
                 width={500}
                 height={600}

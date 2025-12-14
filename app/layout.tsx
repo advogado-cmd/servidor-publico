@@ -17,7 +17,7 @@ const robotoSerif = Roboto_Serif({
   variable: "--font-roboto-serif",
 })
 
-const ADVOGADO_FOTO = "/images/dsc-5548-20-281-29.jpeg"
+const ADVOGADO_FOTO = "/images/forumboa.jpeg"
 const LOGO_PNG = "/images/ativo-2016.png"
 const FAVICON_PNG = "/images/ativo-2014.png"
 const SITE_URL = "https://advogado-servidor-publico.go.droliveira.adv.br"
